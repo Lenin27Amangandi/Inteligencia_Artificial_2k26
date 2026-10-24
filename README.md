@@ -1,4 +1,4 @@
-# Tarea Grupal DG_2: Implementación y Mejora del Agente Aspiradora (3x3)
+# Tarea Grupal G9: Implementación y Mejora del Agente Aspiradora (3x3)
 
 **Asignatura:** Inteligencia Artificial (ICCD523)  
 **Tema:** Agentes Inteligentes, Métrica PEAS y Escalamiento a Entorno Bidimensional 3x3
